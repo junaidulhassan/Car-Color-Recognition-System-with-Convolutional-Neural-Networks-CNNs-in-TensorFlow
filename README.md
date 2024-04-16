@@ -1,4 +1,4 @@
-# Title: 🚗🌈 Car Color Detector with CNNs in TensorFlow_
+# Title: Car Color Detector with CNNs in TensorFlow_
 This project aims to develop an automated car color recognition system using a comprehensive dataset of various colored vehicles.
 
 ## Description:
